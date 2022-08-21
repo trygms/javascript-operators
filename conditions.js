@@ -1,3 +1,4 @@
+//ODEV1: Dort Islem Hesap Makinasi
 let say1 = +prompt("1.Sayı:");
 let say2 = +prompt("2.Sayı:");
 let islem = prompt(`"islem yazınız: +, -, *, /"`);
